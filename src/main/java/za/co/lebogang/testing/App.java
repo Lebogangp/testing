@@ -9,5 +9,9 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        tshego();
+    }
+    public static void tshego(){
+    	System.out.println("Helo tshegofatso");
     }
 }
